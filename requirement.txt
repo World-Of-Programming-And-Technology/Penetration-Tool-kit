@@ -1,0 +1,17 @@
+flask
+rich
+prompt_toolkit
+scapy
+nmap
+whois
+geoip2
+psutil
+cryptography
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+plotly
+colorama
+python-dotenv
+PySocks
