@@ -63,6 +63,6 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/securenet-watcher
-cd securenet-watcher
+git clone https://github.com/World-Of-Programming-Technology/Penetration-Tool-kit
+cd Penetration-Tool-Kit
 pip install -r requirements.txt
